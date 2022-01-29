@@ -13,3 +13,4 @@ Feel free to Star one of my Projects, if you admire my Work :D
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philpinsdorf&layout=compact&langs_count=8&theme=dark&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+(Some Languages Excluded Like Html and Css)
