@@ -2,7 +2,7 @@
 ## Infos
 Student, 17, Aachen DE
 
-<b>Currently Working on:</b> EzPP \
+<b>Currently Working on:</b> EzPP and PartyGames \
 <b>Familiar Languages:</b> Java, JavaScript, Python \
 <b>Currently Learning:</b> Dart, C++ 
 
