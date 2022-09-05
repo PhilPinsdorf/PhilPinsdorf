@@ -1,9 +1,11 @@
 # Phil Pinsdorf's Github Account
 ## Infos
-Student, 17, Aachen DE
+Student
+18
+Aachen DE
 
 <b>Currently Working on:</b> EzPP and PartyGames \
-<b>Familiar Languages:</b> Java, JavaScript, Python \
+<b>Fluent Languages:</b> Java, JavaScript, Python \
 <b>Currently Learning:</b> Dart, C++ 
 
 Feel free to Star one of my Projects, if you admire my Work :D
