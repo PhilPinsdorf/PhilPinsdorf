@@ -4,7 +4,7 @@ Student \
 18 \
 Aachen, DE 
 
-<b>Currently Working on:</b> EzPP and PartyGames \
+<b>Currently Working on:</b> EzPP, PartyGames and FH-Chat-Room \
 <b>Fluent Languages:</b> Java, JavaScript, Python \
 <b>Currently Learning:</b> Dart, C++ 
 
