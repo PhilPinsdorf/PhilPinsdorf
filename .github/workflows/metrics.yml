@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
-  github-metrics:
+  github-metrics-top-spotify:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
