@@ -26,7 +26,23 @@ jobs:
           plugin_music_user: rexituz
           plugin_music_token: ${{ secrets.MUSIC_TOKEN }}
           
+          
+  github-metrics-lines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: philpinsdorf
+          template: classic
+          base: ""
+          config_timezone: Europe/Berlin
           plugin_lines: yes
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 2
           plugin_lines_history_limit: 1
+          
+          
