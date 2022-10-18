@@ -18,6 +18,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Berlin
+          filename: metrics.plugin.music.svg
           plugin_music: yes
           plugin_music_limit: 10
           plugin_music_time_range: medium
@@ -40,6 +41,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Berlin
+          filename: metrics.plugin.lines.history.svg
           plugin_lines: yes
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 2
