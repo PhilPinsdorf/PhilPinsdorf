@@ -56,14 +56,14 @@ ___
 
 ___
 
-<div align="center">
+<!--- <div align="center">
   <h3>Current Spotify Top Tracks</h3>
     <a href="https://open.spotify.com/user/phil220704?si=dcdfdbe7a6f541a8">
       <img src="https://github.com/PhilPinsdorf/PhilPinsdorf/blob/5329f0455e4baa907e216b4b494eb3d830a6debc/metrics.plugin.music.svg" href="https://google.com/">
     </a>
 </div>
 
-___
+___ --->
 
 <div align="center">
   <h3>More Information</h3>
