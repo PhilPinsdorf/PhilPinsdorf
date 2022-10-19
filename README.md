@@ -1,12 +1,17 @@
-# Phil Pinsdorf's Github Account
-## Infos
-Student \
-18 \
-Aachen, DE 
+# Hey, I'm Phil!
+<p align="center">Studying Computer Science Student at FH Aachen of Applied Science</p> 
+<p align="center">18 years old</p> 
+<p align="center">Living in Aachen, Germany</p> 
+<p align="center">Mostly Proof-of-Concept and small Weekend Projekts</p> 
 
-<b>Currently Working on:</b> EzPP, PartyGames and FH-Chat-Room \
-<b>Fluent Languages:</b> Java, JavaScript, Python \
-<b>Currently Learning:</b> Dart, C++ 
+___
+
+![](https://komarev.com/ghpvc/?username=philpinsdorf&style=for-the-badge&color=blueviolet)
+
+___
+
+<p align="center"><b>Currently Working on:</b> EzPP, PartyGames and FhAachenMensaBot</p> 
+<p align="center"><b>Fluent Languages:</b> Java, JavaScript, C++, Python</p> 
 
 Feel free to Star one of my Projects, if you admire my Work :D
 
