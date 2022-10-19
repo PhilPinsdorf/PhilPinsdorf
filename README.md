@@ -23,7 +23,7 @@ ___
 <div align="center">
   <h3>Fluent Languages</h3>
   <a href="#">
-    <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -57,7 +57,9 @@ ___
 
 <div align="center">
   <h3>Current Spotify Top Tracks</h3>
-    <img src="https://github.com/PhilPinsdorf/PhilPinsdorf/blob/5329f0455e4baa907e216b4b494eb3d830a6debc/metrics.plugin.music.svg">
+    <a href="https://open.spotify.com/user/phil220704?si=dcdfdbe7a6f541a8">
+      <img src="https://github.com/PhilPinsdorf/PhilPinsdorf/blob/5329f0455e4baa907e216b4b494eb3d830a6debc/metrics.plugin.music.svg" href="https://google.com/">
+    </a>
 </div>
 
 ___
