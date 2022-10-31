@@ -68,8 +68,8 @@ ___ --->
 <div align="center">
   <h3>More Information</h3>
   <img src="https://komarev.com/ghpvc/?username=philpinsdorf&style=for-the-badge&color=blueviolet">
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?label=%20&message=rexituz%232457&color=7289da&style=for-the-badge&logo=discord&logoColor=white""> 
+  <a href="https://discord.com/channels/@me/722502317458325664">
+    <img src="https://img.shields.io/static/v1?label=%20&message=smartin%232457&color=7289da&style=for-the-badge&logo=discord&logoColor=white""> 
   </a>
 </div>
 
