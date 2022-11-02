@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Phil!</h1>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&height=32&lines=Hey%2C+I'm+Phil!" /></div>
+
+___
 
 <p align="center">- Studying Computer Science at <a href="https://www.fh-aachen.de/">FH Aachen University of Applied Science</a></p> 
 <p align="center">- 18 Years old</p> 
@@ -32,10 +34,10 @@ ___
 ___
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=philpinsdorf&count_private=true&show_icons=true&theme=dark&include_all_commits=true&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=philpinsdorf&show_icons=true&theme=dark&include_all_commits=true&count_private =true&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff">
 </br>
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philpinsdorf&layout=compact&langs_count=8&theme=dark&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff&hide=html,css">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philpinsdorf&layout=compact&langs_count=6&theme=dark&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff&hide=html,css">
 </div>
 
 ___
