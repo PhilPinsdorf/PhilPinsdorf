@@ -34,7 +34,7 @@ ___
 ___
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=philpinsdorf&show_icons=true&theme=dark&include_all_commits=true&count_private =true&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=philpinsdorf&show_icons=true&theme=dark&include_all_commits=true&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff">
 </br>
 </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philpinsdorf&layout=compact&langs_count=6&theme=dark&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff&hide=html,css">
