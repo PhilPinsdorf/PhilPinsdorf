@@ -2,10 +2,9 @@
 
 ___
 
-<p align="center">- Studying Computer Science at <a href="https://www.fh-aachen.de/">FH Aachen University of Applied Science</a></p> 
-<p align="center">- 18 Years old</p> 
-<p align="center">- Living in Aachen, Germany</p> 
-<p align="center">- Mostly Proof-of-Concepts and small Weekend Projekts</p> 
+- Studying Computer Science @ [FH Aachen University of Applied Science](https://www.fh-aachen.de/)
+- 19 Years old
+- Living in Aachen, Germany
 
 ___
 
