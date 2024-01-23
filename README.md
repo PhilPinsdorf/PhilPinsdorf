@@ -31,15 +31,11 @@ ___
 </div>
 
 ___
-<!---
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=philpinsdorf&show_icons=true&theme=dark&include_all_commits=true&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff">
-</br>
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philpinsdorf&layout=compact&langs_count=6&theme=dark&bg_color=30,101010,171717&icon_color=00ff8a&title_color=ffffff&hide=html,css">
-</div> --->
-
-<!--START_SECTION:waka-->
+  
+### My Alltime Coding Stats 
+</div>
+<!--START_SECTION:waka-alltime-->
 
 ```rust
 From: 13 January 2024 - To: 20 January 2024
@@ -54,7 +50,28 @@ CSS          0 secs          -------------------------   00.05 %
 JavaScript   0 secs          -------------------------   00.02 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-alltime-->
+
+<div align="center">
+  
+### My Weekly Coding Stats 
+</div>
+<!--START_SECTION:waka-weekly-->
+
+```rust
+From: 13 January 2024 - To: 20 January 2024
+
+Total Time: 17 hrs 49 mins
+
+Vue.js       13 hrs 18 mins  >>>>>>>>>>>>>>>>>>>------   74.66 %
+PHP          4 hrs 24 mins   >>>>>>-------------------   24.76 %
+TypeScript   0 secs          -------------------------   00.09 %
+Bash         0 secs          -------------------------   00.07 %
+CSS          0 secs          -------------------------   00.05 %
+JavaScript   0 secs          -------------------------   00.02 %
+```
+
+<!--END_SECTION:waka-weekly-->
 
 ___
 
