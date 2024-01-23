@@ -40,6 +40,20 @@ ___
 </div> --->
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 13 January 2024 - To: 20 January 2024
+
+Total Time: 17 hrs 49 mins
+
+Vue.js       13 hrs 18 mins  >>>>>>>>>>>>>>>>>>>------   74.66 %
+PHP          4 hrs 24 mins   >>>>>>-------------------   24.76 %
+TypeScript   0 secs          -------------------------   00.09 %
+Bash         0 secs          -------------------------   00.07 %
+CSS          0 secs          -------------------------   00.05 %
+JavaScript   0 secs          -------------------------   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ___
