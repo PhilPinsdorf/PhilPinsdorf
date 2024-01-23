@@ -84,10 +84,12 @@ ___
 
 <div align="center">
   <h3>Current Spotify Top Tracks</h3>
-    <a href="https://open.spotify.com/user/phil220704?si=dcdfdbe7a6f541a8">
-      <img src="https://github.com/PhilPinsdorf/PhilPinsdorf/metrics.plugin.music.svg" href="https://google.com/">
-    </a>
 </div>
+
+<a href="https://open.spotify.com/user/phil220704?si=dcdfdbe7a6f541a8">
+  <img src="https://github.com/PhilPinsdorf/PhilPinsdorf/blob/81799ec560386a0e9b22ea5c21f155ae342b441c/metrics.plugin.music.svg">
+</a>
+
 
 ___
 
