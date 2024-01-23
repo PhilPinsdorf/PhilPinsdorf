@@ -35,7 +35,7 @@ ___
   
 ### My Alltime Coding Stats 
 </div>
-<!--START_SECTION:waka-alltime-->
+<!--START_SECTION:wakaalltime-->
 
 ```rust
 From: 13 January 2024 - To: 20 January 2024
@@ -50,13 +50,13 @@ CSS          0 secs          -------------------------   00.05 %
 JavaScript   0 secs          -------------------------   00.02 %
 ```
 
-<!--END_SECTION:waka-alltime-->
+<!--END_SECTION:wakaalltime-->
 
 <div align="center">
   
 ### My Weekly Coding Stats 
 </div>
-<!--START_SECTION:waka-weekly-->
+<!--START_SECTION:wakaweekly-->
 
 ```rust
 From: 13 January 2024 - To: 20 January 2024
@@ -71,7 +71,7 @@ CSS          0 secs          -------------------------   00.05 %
 JavaScript   0 secs          -------------------------   00.02 %
 ```
 
-<!--END_SECTION:waka-weekly-->
+<!--END_SECTION:wakaweekly-->
 
 ___
 
