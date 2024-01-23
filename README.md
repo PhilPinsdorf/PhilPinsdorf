@@ -4,30 +4,31 @@ ___
 
 - Studying Computer Science @ [FH Aachen University of Applied Science](https://www.fh-aachen.de/)
 - 19 Years old
-- Living in Aachen, Germany
+- Living in ![Aachen, Germany](https://maps.app.goo.gl/8qs8RtG5ooiP5L3bA)
+- Currently working for the "Information Technology Systems" Lab for Prof. Dr. Andreas Claßen at the FH Aachen 
 
 ___
 
 <div align="center">
-  <h3>Currently Working On</h3>
-  <a href="https://github.com/PhilPinsdorf/EzPP">
-    <img src="https://img.shields.io/static/v1?label=%20&message=EzPP%20&color=yellow&style=for-the-badge">
-  </a>
-  <a href="https://github.com/PhilPinsdorf/PartyGames">
-    <img src="https://img.shields.io/static/v1?label=%20&message=Party%20Games%20&color=blueviolet&style=for-the-badge">
-  </a>
-  <a href="https://github.com/PhilPinsdorf/FhAachenMensaBot">
-    <img src="https://img.shields.io/static/v1?label=%20&message=FH%20Mensa%20Bot%20&color=red&style=for-the-badge">
-  </a>
-</div>
+  
+  ### Currently Working On
 
-<div align="center">
-  <h3>Fluent Languages</h3>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <a href="https://github.com/PhilPinsdorf/FhAachenMensaBot">
+    <img src="https://img.shields.io/badge/FH%20Aachen%20Mensa%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  
+  ### Languages
+  ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
+  ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+  ### Frameworks
+  ![Static Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 </div>
 
 ___
@@ -82,6 +83,15 @@ Other        0 secs          -------------------------   00.01 %
 ___
 
 <div align="center">
+  <h3>Current Spotify Top Tracks</h3>
+    <a href="https://open.spotify.com/user/phil220704?si=dcdfdbe7a6f541a8">
+      <img src="https://github.com/PhilPinsdorf/PhilPinsdorf/metrics.plugin.music.svg" href="https://google.com/">
+    </a>
+</div>
+
+___
+
+<div align="center">
   <h3>People I Admire</h3>
   <a href="https://github.com/RC-14/">
     <img src="https://img.shields.io/static/v1?label=%20&message=RC-14%20&color=red&style=for-the-badge&logo=github">
@@ -89,15 +99,6 @@ ___
 </div>
 
 ___
-
-<!--- <div align="center">
-  <h3>Current Spotify Top Tracks</h3>
-    <a href="https://open.spotify.com/user/phil220704?si=dcdfdbe7a6f541a8">
-      <img src="https://github.com/PhilPinsdorf/PhilPinsdorf/blob/5329f0455e4baa907e216b4b494eb3d830a6debc/metrics.plugin.music.svg" href="https://google.com/">
-    </a>
-</div>
-
-___ --->
 
 <div align="center">
   <h3>More Information</h3>
