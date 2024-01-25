@@ -39,18 +39,18 @@ ___
 <!--START_SECTION:wakaalltime-->
 
 ```rust
-From: 13 January 2024 - To: 23 January 2024
+From: 13 January 2024 - To: 24 January 2024
 
-Total Time: 23 hrs 43 mins
+Total Time: 24 hrs 1 min
 
-Vue.js       14 hrs 47 mins  >>>>>>>>>>>>>>>>---------   62.37 %
-PHP          6 hrs 23 mins   >>>>>>>------------------   26.95 %
-Markdown     29 mins         >------------------------   02.04 %
-TypeScript   28 mins         >------------------------   02.00 %
-Docker       13 mins         -------------------------   00.92 %
-Bash         10 mins         -------------------------   00.71 %
-Git Config   8 mins          -------------------------   00.58 %
-JavaScript   2 mins          -------------------------   00.17 %
+Vue.js       14 hrs 47 mins  >>>>>>>>>>>>>>>----------   61.55 %
+PHP          6 hrs 23 mins   >>>>>>>------------------   26.59 %
+Markdown     29 mins         >------------------------   02.01 %
+TypeScript   28 mins         -------------------------   01.98 %
+C++          18 mins         -------------------------   01.29 %
+Docker       13 mins         -------------------------   00.91 %
+Bash         10 mins         -------------------------   00.72 %
+Git Config   8 mins          -------------------------   00.57 %
 ```
 
 <!--END_SECTION:wakaalltime-->
