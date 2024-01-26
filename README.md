@@ -62,18 +62,18 @@ Git Config   8 mins          -------------------------   00.57 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-Total Time: 19 hrs 38 mins
+Total Time: 16 hrs 33 mins
 
-Vue.js       10 hrs 56 mins  >>>>>>>>>>>>>>-----------   55.66 %
-PHP          6 hrs 13 mins   >>>>>>>>-----------------   31.72 %
-Markdown     29 mins         >------------------------   02.46 %
-TypeScript   28 mins         >------------------------   02.39 %
-Docker       13 mins         -------------------------   01.11 %
-Bash         10 mins         -------------------------   00.86 %
-Git Config   8 mins          -------------------------   00.70 %
-JavaScript   2 mins          -------------------------   00.20 %
+Vue.js       8 hrs 13 mins   >>>>>>>>>>>>-------------   49.72 %
+PHP          5 hrs 32 mins   >>>>>>>>-----------------   33.49 %
+Markdown     29 mins         >------------------------   02.92 %
+TypeScript   28 mins         >------------------------   02.84 %
+C++          18 mins         -------------------------   01.88 %
+Docker       13 mins         -------------------------   01.32 %
+Bash         9 mins          -------------------------   00.97 %
+Git Config   8 mins          -------------------------   00.83 %
 ```
 
 <!--END_SECTION:wakaweekly-->
