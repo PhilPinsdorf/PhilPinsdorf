@@ -62,14 +62,12 @@ Git Config   8 mins          -------------------------   00.55 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Total Time: 44 mins
+Total Time: 7 mins
 
-C++      36 mins         >>>>>>>>>>>>>>>>>>>>>----   82.60 %
-Text     7 mins          >>>>---------------------   16.48 %
-C        0 secs          -------------------------   00.47 %
-Python   0 secs          -------------------------   00.30 %
+Text     7 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   98.18 %
+Python   0 secs          -------------------------   01.82 %
 ```
 
 <!--END_SECTION:wakaweekly-->
