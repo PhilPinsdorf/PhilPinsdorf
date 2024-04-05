@@ -39,15 +39,17 @@ ___
 <!--START_SECTION:wakaalltime-->
 
 ```rust
-From: 13 January 2024 - To: 02 April 2024
+From: 13 January 2024 - To: 03 April 2024
 
 Total Time: 24 hrs 46 mins
 
 Vue.js       14 hrs 47 mins  >>>>>>>>>>>>>>>----------   59.70 %
 PHP          6 hrs 23 mins   >>>>>>-------------------   25.79 %
 C++          55 mins         >------------------------   03.74 %
+YAML         39 mins         >------------------------   02.63 %
 Markdown     29 mins         -------------------------   01.95 %
 TypeScript   28 mins         -------------------------   01.92 %
+JSON         20 mins         -------------------------   01.40 %
 Docker       13 mins         -------------------------   00.88 %
 Bash         10 mins         -------------------------   00.70 %
 Git Config   8 mins          -------------------------   00.55 %
