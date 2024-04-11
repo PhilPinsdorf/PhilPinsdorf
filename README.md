@@ -64,11 +64,19 @@ Git Config   8 mins          -------------------------   00.55 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 01 April 2024 - To: 08 April 2024
+From: 03 April 2024 - To: 10 April 2024
 
-Total Time: 0 secs
+Total Time: 24 mins
 
-No activity tracked
+Bash         12 mins         >>>>>>>>>>>>>------------   51.50 %
+YAML         4 mins          >>>>>--------------------   18.31 %
+Markdown     4 mins          >>>>>--------------------   18.12 %
+JSON         2 mins          >>-----------------------   09.01 %
+Git Config   0 secs          -------------------------   00.86 %
+JavaScript   0 secs          -------------------------   00.67 %
+TypeScript   0 secs          -------------------------   00.54 %
+Docker       0 secs          -------------------------   00.53 %
+Other        0 secs          -------------------------   00.37 %
 ```
 
 <!--END_SECTION:wakaweekly-->
