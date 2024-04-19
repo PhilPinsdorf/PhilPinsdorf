@@ -64,7 +64,7 @@ Git Config   16 mins         -------------------------   00.99 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 09 April 2024 - To: 16 April 2024
+From: 10 April 2024 - To: 17 April 2024
 
 Total Time: 2 hrs 2 mins
 
