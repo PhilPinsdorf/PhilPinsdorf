@@ -64,14 +64,11 @@ Git Config   16 mins         -------------------------   00.96 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 17 April 2024 - To: 24 April 2024
+From: 18 April 2024 - To: 25 April 2024
 
-Total Time: 58 mins
+Total Time: 0 secs
 
-Bash         11 mins         >>>>>--------------------   20.04 %
-C++          8 mins          >>>>---------------------   14.27 %
-Markdown     2 mins          >------------------------   04.65 %
-Other        0 secs          -------------------------   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakaweekly-->
