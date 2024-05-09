@@ -64,14 +64,13 @@ Git Config   16 mins         -------------------------   00.95 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 29 April 2024 - To: 06 May 2024
+From: 30 April 2024 - To: 07 May 2024
 
-Total Time: 5 mins
+Total Time: 27 mins
 
-Markdown     3 mins          >>>>>>>>>>>>>>>>>--------   66.23 %
-JavaScript   1 min           >>>>>>-------------------   23.36 %
-Bash         0 secs          >>>----------------------   10.20 %
-Other        0 secs          -------------------------   00.21 %
+JavaScript   14 mins         >>>>>>>>>>>>>------------   52.16 %
+TypeScript   11 mins         >>>>>>>>>>>--------------   42.79 %
+TSConfig     1 min           >------------------------   05.05 %
 ```
 
 <!--END_SECTION:wakaweekly-->
