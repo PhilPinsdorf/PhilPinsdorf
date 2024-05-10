@@ -64,7 +64,7 @@ JavaScript   16 mins         -------------------------   00.97 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 30 April 2024 - To: 07 May 2024
+From: 01 May 2024 - To: 08 May 2024
 
 Total Time: 27 mins
 
