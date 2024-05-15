@@ -64,13 +64,13 @@ JavaScript   16 mins         -------------------------   00.97 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 05 May 2024 - To: 12 May 2024
+From: 06 May 2024 - To: 13 May 2024
 
-Total Time: 27 mins
+Total Time: 25 mins
 
-JavaScript   14 mins         >>>>>>>>>>>>>------------   52.16 %
-TypeScript   11 mins         >>>>>>>>>>>--------------   42.79 %
-TSConfig     1 min           >------------------------   05.05 %
+JavaScript   12 mins         >>>>>>>>>>>>-------------   49.70 %
+TypeScript   11 mins         >>>>>>>>>>>--------------   44.99 %
+TSConfig     1 min           >------------------------   05.31 %
 ```
 
 <!--END_SECTION:wakaweekly-->
