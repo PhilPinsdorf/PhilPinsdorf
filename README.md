@@ -64,13 +64,11 @@ JavaScript   16 mins         -------------------------   00.96 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 24 July 2024 - To: 31 July 2024
+From: 25 July 2024 - To: 01 August 2024
 
-Total Time: 9 mins
+Total Time: 0 secs
 
-Markdown   5 mins          >>>>>>>>>>>>>>>----------   60.20 %
-C++        3 mins          >>>>>>>>>----------------   37.79 %
-Other      0 secs          -------------------------   01.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakaweekly-->
