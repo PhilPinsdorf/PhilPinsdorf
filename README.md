@@ -64,11 +64,12 @@ JavaScript   16 mins         -------------------------   00.96 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 07 August 2024 - To: 14 August 2024
+From: 08 August 2024 - To: 15 August 2024
 
-Total Time: 0 secs
+Total Time: 3 hrs 21 mins
 
-No activity tracked
+Dart   3 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.42 %
+YAML   3 mins          -------------------------   01.58 %
 ```
 
 <!--END_SECTION:wakaweekly-->
