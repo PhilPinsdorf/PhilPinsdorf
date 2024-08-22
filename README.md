@@ -64,7 +64,7 @@ Markdown     50 mins         >------------------------   02.59 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
 Total Time: 3 hrs 21 mins
 
