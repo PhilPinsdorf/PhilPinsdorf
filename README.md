@@ -64,12 +64,15 @@ Markdown     50 mins         >------------------------   02.59 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 13 August 2024 - To: 20 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
-Total Time: 3 hrs 21 mins
+Total Time: 4 hrs 14 mins
 
-Dart   3 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.42 %
-YAML   3 mins          -------------------------   01.58 %
+Dart         3 hrs 17 mins   >>>>>>>>>>>>>>>>>>>------   77.66 %
+Python       24 mins         >>-----------------------   09.49 %
+Markdown     24 mins         >>-----------------------   09.46 %
+Git Config   5 mins          >------------------------   02.16 %
+YAML         3 mins          -------------------------   01.24 %
 ```
 
 <!--END_SECTION:wakaweekly-->
