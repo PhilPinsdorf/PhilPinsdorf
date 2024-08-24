@@ -64,15 +64,14 @@ Docker       52 mins         >------------------------   02.59 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
-Total Time: 4 hrs 14 mins
+Total Time: 3 hrs 34 mins
 
-Dart         3 hrs 17 mins   >>>>>>>>>>>>>>>>>>>------   77.66 %
-Python       24 mins         >>-----------------------   09.49 %
-Markdown     24 mins         >>-----------------------   09.46 %
-Git Config   5 mins          >------------------------   02.16 %
-YAML         3 mins          -------------------------   01.24 %
+Python       3 hrs           >>>>>>>>>>>>>>>>>>>>>----   84.19 %
+Markdown     24 mins         >>>----------------------   11.60 %
+Git Config   5 mins          >------------------------   02.57 %
+Dart         3 mins          -------------------------   01.65 %
 ```
 
 <!--END_SECTION:wakaweekly-->
