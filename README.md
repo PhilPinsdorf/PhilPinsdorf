@@ -64,7 +64,7 @@ TypeScript   52 mins         >------------------------   02.28 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
 Total Time: 2 hrs 9 mins
 
