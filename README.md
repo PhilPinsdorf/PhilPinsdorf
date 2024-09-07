@@ -64,13 +64,11 @@ TypeScript   52 mins         >------------------------   02.28 %
 <!--START_SECTION:wakaweekly-->
 
 ```rust
-From: 28 August 2024 - To: 04 September 2024
+From: 29 August 2024 - To: 05 September 2024
 
-Total Time: 2 hrs 9 mins
+Total Time: 0 secs
 
-Python     2 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   97.79 %
-Markdown   2 mins          -------------------------   01.95 %
-Text       0 secs          -------------------------   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakaweekly-->
