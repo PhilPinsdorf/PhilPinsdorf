@@ -3,7 +3,7 @@
 ___
 
 - Studying Computer Science @ [FH Aachen University of Applied Science](https://www.fh-aachen.de/)
-- 19 Years old
+- 20 Years old
 - Living in ![Aachen, Germany](https://maps.app.goo.gl/8qs8RtG5ooiP5L3bA)
 - Currently working for the "Information Technology Systems" Lab for Prof. Dr. Andreas Claßen at the FH Aachen 
 
@@ -32,57 +32,6 @@ ___
 </div>
 
 ___
-<div align="center">
-  
-### My Alltime Coding Stats 
-</div>
-<!--START_SECTION:wakaalltime-->
-
-```rust
-From: 13 January 2024 - To: 09 October 2024
-
-Total Time: 39 hrs 12 mins
-
-Vue.js       14 hrs 47 mins  >>>>>>>>>----------------   37.70 %
-PHP          6 hrs 23 mins   >>>>---------------------   16.29 %
-Python       6 hrs 4 mins    >>>>---------------------   15.47 %
-Dart         3 hrs 21 mins   >>-----------------------   08.56 %
-Markdown     1 hr 17 mins    >------------------------   03.31 %
-C++          1 hr 12 mins    >------------------------   03.09 %
-Bash         1 hr 4 mins     >------------------------   02.74 %
-TypeScript   52 mins         >------------------------   02.23 %
-```
-
-<!--END_SECTION:wakaalltime-->
-
-<div align="center">
-  
-### My Weekly Coding Stats 
-</div>
-<!--START_SECTION:wakaweekly-->
-
-```rust
-From: 02 October 2024 - To: 09 October 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:wakaweekly-->
-
-___
-
-<div align="center">
-  <h3>Current Spotify Top Tracks</h3>
-</div>
-
-<a href="https://open.spotify.com/user/phil220704?si=dcdfdbe7a6f541a8">
-  <img src="https://github.com/PhilPinsdorf/PhilPinsdorf/blob/81799ec560386a0e9b22ea5c21f155ae342b441c/metrics.plugin.music.svg">
-</a>
-
-
-___
 
 <div align="center">
   <h3>People I Admire</h3>
@@ -104,4 +53,4 @@ ___
 </br>
 </br>
 
-<p align="center">Last Updated: <strong>21.07.2023</strong></p>
+<p align="center">Last Updated: <strong>11.10.2024</strong></p>
