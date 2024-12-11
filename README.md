@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&height=32&lines=Hey%2C+I'm+Phil!" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Phil!;%C2%A1Hola%2C+soy+Phil!;Salut%2C+je+suis+Phil!;H%C4%81i%2C+w%C7%92+sh%C3%AC+F%C4%93i'%C4%9Br!;He%2C+main+Phil+hoon!;Mar%E1%B8%A5aban%2C+'an%C4%81+Phil!;Privet%2C+ya+Fil!;Oi%2C+eu+sou+o+Phil!;H%C4%81i%2C+%C4%81mi+Phil!;Hey%2C+ich+bin+Phil!" /></div>
 
 ___
 
@@ -6,7 +6,7 @@ ___
 - 20 Years old
 - Living in ![Aachen, Germany](https://maps.app.goo.gl/8qs8RtG5ooiP5L3bA)
 - Currently working for the "Information Technology Systems" Lab for Prof. Dr. Andreas Claßen at the FH Aachen
-- To get in touch with me write me @ [philemon.pinsdorf@alumni.fh-aachen.de](mailto:philemon.pinsdorf@alumni.fh-aachen.de)
+- To get in touch with me write me a @ [philemon.pinsdorf@alumni.fh-aachen.de](mailto:philemon.pinsdorf@alumni.fh-aachen.de)
 
 ___
 
