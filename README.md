@@ -5,7 +5,8 @@ ___
 - Studying Computer Science @ [FH Aachen University of Applied Science](https://www.fh-aachen.de/)
 - 20 Years old
 - Living in ![Aachen, Germany](https://maps.app.goo.gl/8qs8RtG5ooiP5L3bA)
-- Currently working for the "Information Technology Systems" Lab for Prof. Dr. Andreas Claßen at the FH Aachen 
+- Currently working for the "Information Technology Systems" Lab for Prof. Dr. Andreas Claßen at the FH Aachen
+- To get in touch with me write me @ (philemon.pinsdorf@alumni.fh-aachen.de)[mailto:philemon.pinsdorf@alumni.fh-aachen.de]
 
 ___
 
